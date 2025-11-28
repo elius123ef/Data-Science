@@ -1,15 +1,3 @@
-import pandas as pd
-# Regression Metrics
-from sklearn.metrics import mean_squared_error, root_mean_squared_error
-from sklearn.metrics import median_absolute_error, mean_absolute_percentage_error
-from sklearn.metrics import r2_score
-# Classifier Metrics
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import f1_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-
-
 def get_regression_metrics(y_predict_test, y_test, y_predict_train, y_train):
     """
     get_regression_metrics Hector
