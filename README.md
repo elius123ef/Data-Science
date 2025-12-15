@@ -19,6 +19,7 @@ Documentar el proceso de forma clara y reproducible
 ├── src/             # Scripts de procesamiento y entrenamiento
 ├── models/          # Modelos entrenados
 ├── README.md        # Documentación del proyecto
+
 🔍 Análisis Exploratorio de Datos (EDA)
 
 Limpieza de datos (valores nulos, duplicados, formatos)
