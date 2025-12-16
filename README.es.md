@@ -89,8 +89,10 @@ Este proyecto tiene como objetivo aplicar un flujo completo de Ciencia de Datos 
 
 ## 👤 Autor
 
-Elius
+Elius Trujillo
+
 Estudiante de Ciencia de Datos
+
 GitHub: https://github.com/elius123ef
 
 ## 📎 Nota
