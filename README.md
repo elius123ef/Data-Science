@@ -93,7 +93,6 @@ Elius Trujillo
 
 Estudiante de Ciencia de Datos
 
-GitHub: https://github.com/elius123ef
 
 ## 📎 Nota
 
