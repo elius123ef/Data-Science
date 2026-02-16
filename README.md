@@ -1,49 +1,100 @@
-# Machine Learning & Data Science Portfolio 🚀
-"Hard work always beats talent when talent doesn't work hard" - Tim Notke
+# Proyecto de Machine Learning – Ciencia de Datos
+## 📌 Descripción del proyecto
 
-Bienvenido a mi repositorio principal. Aquí encontrarás una evolución desde los fundamentos estadísticos hasta arquitecturas avanzadas de Machine Learning, culminando en mi proyecto final de especialización en oncología predictiva.
+Este proyecto tiene como objetivo aplicar un flujo completo de Ciencia de Datos y Machine Learning, desde la exploración y limpieza de datos hasta el entrenamiento y evaluación de modelos predictivos. El proyecto se desarrolla como parte de mi formación en Ciencia de Datos y busca demostrar habilidades prácticas en análisis de datos, modelado y uso de buenas prácticas con GitHub.
 
-## *🏆 Proyecto Destacado: Lung Cancer Diagnosis & Life Expectancy*
-*Dynamic Survival Analysis System*
+## 🎯 Objetivo
 
-Este proyecto integra datos clínicos (SEER) con determinantes socioeconómicos para estimar probabilidades de supervivencia a 5 años mediante un framework de Multi-step Gradient Boosting.
+- Analizar un conjunto de datos real
 
-**https://github.com/elius123ef/Proyectos-personales**
+- Extraer insights relevantes mediante exploración y visualización de datos
 
-## **📂 Ecosistema de Proyectos y Aprendizaje**
-Este repositorio no es solo una meta, sino el registro de un proceso de mejora continua. Cada carpeta representa un pilar en mi formación técnica:
+- Entrenar y evaluar modelos de Machine Learning
 
-- nlp-modelos: Procesamiento de lenguaje natural y análisis de texto.
+- Documentar el proceso de forma clara y reproducible
 
-- Series-temporales-forecast: Predicción de tendencias y análisis de datos secuenciales.
+## 🗂️ Estructura del proyecto
+- ├── data/            # Datos crudos y procesados
 
-- Redes-neuronales: Arquitecturas de Deep Learning para patrones complejos.
+- ├── notebooks/       # Jupyter Notebooks con análisis y modelos
 
-- Regresion-lineal & Regresion-logistica: Fundamentos sólidos de modelado estadístico y clasificación.
+- ├── src/             # Scripts de procesamiento y entrenamiento
 
-- Arbol-decisiones & Random-forest: Modelos basados en conjuntos para robustez predictiva.
+- ├── models/          # Modelos entrenados
 
-- Neavy-Kmeans-Knearst: Algoritmos de clustering y aprendizaje no supervisado.
+- ├── README.md        # Documentación del proyecto
 
-- EDA-Airbn: Análisis exploratorio profundo centrado en la toma de decisiones basada en datos.
+## 🔍 Análisis Exploratorio de Datos (EDA)
 
-## **📈 Mi Compromiso: Mejora Continua**
-Mi enfoque no es solo construir modelos, sino entender el porqué detrás de los datos. Mi trayectoria refleja un deseo constante de:
+- Limpieza de datos (valores nulos, duplicados, formatos)
 
-- Optimizar: Refinar pipelines de datos para mayor eficiencia.
+- Análisis estadístico descriptivo
 
-- Aprender: Explorar nuevas librerías y algoritmos cada día.
+- Visualización de variables clave
 
-- Aplicar: Traducir métricas técnicas en valor real para la sociedad (como en el análisis de impacto socioeconómico en salud).
+- Identificación de patrones y relaciones entre variables
 
-## **🛠️ Tecnologías**
-- Core: Python (Pandas, Numpy, Scikit-Learn)
+## Herramientas utilizadas:
 
-- Boosting: XGBoost, LightGBM
+- Pandas
 
-- Vis: Matplotlib, Seaborn, Streamlit
+- NumPy
 
-- Deployment: Joblib, Flask, SQL
+- Matplotlib / Seaborn
 
-## 👥 Créditos
-[Elius Trujillo - Data Scientist](https://www.linkedin.com/in/elius-trujillo/)
+## 🤖 Modelos de Machine Learning
+
+- Selección de variables (feature engineering)
+
+- División de datos en entrenamiento y prueba
+
+- Entrenamiento de modelos (por ejemplo: regresión logística, árboles, random forest)
+
+- Evaluación con métricas como accuracy, precision, recall o RMSE
+
+## 📊 Resultados
+
+- Comparación del rendimiento de los modelos
+
+- Interpretación de resultados
+
+- Conclusiones basadas en los datos
+
+
+## 🛠️ Tecnologías utilizadas
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Scikit-learn
+
+- Matplotlib / Seaborn
+
+- Jupyter Notebook
+
+- Git / GitHub
+
+## 🚀 Próximos pasos
+
+- Optimización de hiperparámetros
+
+- Pruebas con otros algoritmos
+
+- Mejora de visualizaciones
+
+- Documentación más detallada de resultados
+
+## 👤 Autor
+
+Elius Trujillo
+
+Estudiante de Ciencia de Datos
+
+GitHub: https://github.com/elius123ef
+
+## 📎 Nota
+
+Este proyecto forma parte de mi portafolio como Científico de Datos Junior, enfocado en demostrar habilidades prácticas y capacidad de resolver problemas con datos.
