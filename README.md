@@ -12,8 +12,8 @@ El propósito de este repositorio es construir un portafolio sólido donde cada 
 | Proyecto | Descripción | Algoritmos/Técnicas | Status |
 | :--- | :--- | :--- | :--- |
 | **[Lung Cancer Diagnosis & Life Expectancy](https://github.com/elius123ef/sp-ml-20-final-project-g1)** | Modelo de clasificación por cortes temporales | Clasificación, Pandas |Completado |
-| **[Dogs Vs Cats]** | Clasificación de imágenes. | Redes neuronales, TensorFlow | Completado |
-
+| **Dogs Vs Cats** | Clasificación de imágenes. | Redes neuronales, TensorFlow | Completado |
+| **Amigrante** | Modelo que analiza la ley organica 4/2000 del BOE | NLP, sentence_transformers, pyarrow | En progreso |
 ---
 
 ## 🛠️ Stack Tecnológico
