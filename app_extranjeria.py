@@ -8,8 +8,12 @@ import os
 
 # 1. CONFIGURACIÓN DE APIS Y MODELOS
 # Reemplaza con tu clave real de Google AI Studio
-genai.configure(api_key="AIzaSyDrXI9k5uKRhbx8FtAww_iEuyiy0KolBjU")
-model_gemini = genai.GenerativeModel('gemini-pro')
+api_key = os.getenv("GOOGLE_API_KEY")
+if api_key:
+    genai.configure(api_key=api_key)
+    model_gemini = genai.GenerativeModel('gemini-1.5-flash')
+else:
+    st.error("⚠️ No se encontró la clave API en el archivo .env")
 
 @st.cache_resource # Evita que el modelo se recargue en cada interacción
 def cargar_recursos_ia():
