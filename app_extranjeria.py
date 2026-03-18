@@ -54,7 +54,7 @@ def buscar_asesoria(pregunta_usuario, df, top_n=3):
 
 def simplificar_ley(texto_legal):
     prompt = f"""
-    Eres un asesor legal experto en extranjería en España. 
+    Eres un asesor legal experto de extranjería en España. 
     Tu objetivo es ayudar a una persona migrante a entender este artículo de la ley.
     Explícalo en 2 frases cortas, usando un lenguaje muy sencillo y cercano.
     No uses tecnicismos.
